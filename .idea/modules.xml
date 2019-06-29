@@ -3,8 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/scParent/microservicecloud-consumer-dept-80/microservicecloudconsumerdept80.iml" filepath="$PROJECT_DIR$/scParent/microservicecloud-consumer-dept-80/microservicecloudconsumerdept80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scParent/microservicecloud-consumer-hystrix-dashboard/microservicecloudconsumerhystrixdashboard.iml" filepath="$PROJECT_DIR$/scParent/microservicecloud-consumer-hystrix-dashboard/microservicecloudconsumerhystrixdashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/scParent/microservicecloud-eureka-7001/microservicecloudeureka7001.iml" filepath="$PROJECT_DIR$/scParent/microservicecloud-eureka-7001/microservicecloudeureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scParent/microservicecloud-eureka-7002/microservicecloudeureka7002.iml" filepath="$PROJECT_DIR$/scParent/microservicecloud-eureka-7002/microservicecloudeureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scParent/microservicecloud-eureka-7003/microservicecloudeureka7003.iml" filepath="$PROJECT_DIR$/scParent/microservicecloud-eureka-7003/microservicecloudeureka7003.iml" />
       <module fileurl="file://$PROJECT_DIR$/scParent/microservicecloud-provider-dept-8001/microservicecloudproviderdept8001.iml" filepath="$PROJECT_DIR$/scParent/microservicecloud-provider-dept-8001/microservicecloudproviderdept8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scParent/microservicecloud-provider-dept-hystrix-8001/microservicecloudproviderdepthystrix8001.iml" filepath="$PROJECT_DIR$/scParent/microservicecloud-provider-dept-hystrix-8001/microservicecloudproviderdepthystrix8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scParent/microservicecloud-zuul-gateway-9527/microservicecloudzuulgateway9527.iml" filepath="$PROJECT_DIR$/scParent/microservicecloud-zuul-gateway-9527/microservicecloudzuulgateway9527.iml" />
       <module fileurl="file://$PROJECT_DIR$/scParent/scAPI/scAPI.iml" filepath="$PROJECT_DIR$/scParent/scAPI/scAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/scParent/scParent.iml" filepath="$PROJECT_DIR$/scParent/scParent.iml" />
     </modules>

@@ -3,8 +3,13 @@
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
     <file url="file://$PROJECT_DIR$/scParent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scParent/microservicecloud-consumer-dept-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scParent/microservicecloud-consumer-hystrix-dashboard" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scParent/microservicecloud-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scParent/microservicecloud-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scParent/microservicecloud-eureka-7003" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scParent/microservicecloud-provider-dept-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scParent/microservicecloud-provider-dept-hystrix-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scParent/microservicecloud-zuul-gateway-9527" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/scParent/scAPI" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

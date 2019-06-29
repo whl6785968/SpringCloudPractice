@@ -1,5 +1,5 @@
 server:
-  port: 7001
+  port: 7003
 eureka:
   instance:
     hostname: localhost
@@ -10,7 +10,7 @@ eureka:
     #表示自己就是注册中心，主要职责维护服务实例，并不需要去检索实例
     fetch-registry: false
     service-url:
-      defaultZone: http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/
       #单机 defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/       #设置与Eureka Server交互的地址查询服务和注册服务都需要依赖这个地址（单机）。
      # defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
 
